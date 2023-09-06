@@ -1,4 +1,3 @@
-## Repositório de Java
+## Projeto de conta de banco
 
-Vai ser usado para mostrar alguns projetos que estou fazendo em java.
-Com o intuito de mostrar minhas habilidades com a linguagem.
+Este é o meu primeiro projeto em java. Ele pega alguns dados e realiza sua impressão.
