@@ -1,18 +1,10 @@
-## Getting Started
+#Programa de Contagem
+##Este é um programa Java simples que realiza a seguinte tarefa:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Solicita ao usuário que insira dois números.
 
-## Folder Structure
+Em seguida, exibe uma contagem sequencial a partir do primeiro número até o segundo número.
 
-The workspace contains two folders by default, where:
+Se o segundo número for menor ou igual ao primeiro, o programa exibirá uma mensagem de erro indicando que os parâmetros são inválidos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+É um programa de demonstração básica que ilustra o uso de exceções personalizadas em Java para lidar com situações de erro específicas
