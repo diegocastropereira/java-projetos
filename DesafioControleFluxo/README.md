@@ -1,10 +1,10 @@
-#Programa de Contagem
-##Este é um programa Java simples que realiza a seguinte tarefa:
+# Programa de Contagem
+## Este é um programa Java simples que realiza a seguinte tarefa:
 
-Solicita ao usuário que insira dois números.
+1. Solicita ao usuário que insira dois números.
 
-Em seguida, exibe uma contagem sequencial a partir do primeiro número até o segundo número.
+2. Em seguida, exibe uma contagem sequencial a partir do primeiro número até o segundo número.
 
-Se o segundo número for menor ou igual ao primeiro, o programa exibirá uma mensagem de erro indicando que os parâmetros são inválidos.
+3. Se o segundo número for menor ou igual ao primeiro, o programa exibirá uma mensagem de erro indicando que os parâmetros são inválidos.
 
-É um programa de demonstração básica que ilustra o uso de exceções personalizadas em Java para lidar com situações de erro específicas
+É um programa de demonstração básica que ilustra o uso de exceções personalizadas em Java para lidar com situações de erro específicas.
